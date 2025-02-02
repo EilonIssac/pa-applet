@@ -11,7 +11,7 @@
 
 #include "audio_status.h"
 
-#define PROGRAM_NAME "pa-applet"
+#define PROGRAM_NAME "Sound Volume"
 
 gboolean have_notifications = FALSE;
 NotifyNotification *notification = NULL;
